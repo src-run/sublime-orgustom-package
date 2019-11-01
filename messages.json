@@ -1,0 +1,4 @@
+{
+    "install": ".messages/install-x.x.x.txt",
+    "0.0.1":   ".messages/upgrade-0.0.1.txt",
+}

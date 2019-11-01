@@ -1,0 +1,19 @@
+[src-run] sublime-orton-package
+===============================
+
+CONTEXT:
+
+    This message is displayed following an "UPGRADE" action of this package.
+
+
+CHANGELOG:
+
+    - __Note:__
+    The 0.0.1 release represents the initial implementation of this package, and
+    contains no changes or additional functionality outside the scope of the
+    "INSTALL"-context message text displayed when this package was initially
+    installed.
+
+    - __Full change log:__
+    A complete change log enumerating all the Git commits comprising this
+    release can be found at the following URL:

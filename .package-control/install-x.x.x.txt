@@ -1,0 +1,21 @@
+[src-run] sublime-orton-package
+==================================
+
+CONTEXT:
+    This message is displayed following an "INSTALL" action of this package.
+
+DESCRIPTION:
+    This Sublime Text 3 package provides a collection of Sublime Text 3 commands,
+    key-bindings, and other utilities. While the contained functionality was
+    created specifically to aid in the preferred development work-flow of those
+    working at Source Consulting (src.run), you may too find the contained
+    additions useful. Feel free to use at your own risk. :-)
+
+FEATURES:
+    - __Adjust font size of active view and global settings:__ Key-bindings to
+      increase, decrease, and reset the font size of *only* the active view
+      using `shift+ctrl++`, `shift+ctrl+-`, and `shift+ctrl+=`, respectively.
+      Additionally, the normal, global font size adjustment key-bindings will
+      continue to work, using `ctrl+=` and `ctrl+-` to increase or decrease the
+      font size, though custom implementations have been substituted that
+      utilize alternate size increment logic.
